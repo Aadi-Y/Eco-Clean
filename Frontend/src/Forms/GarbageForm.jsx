@@ -138,6 +138,7 @@ function GarbageForm({ handleCloseModal, garbage, type, handleGetGarbages }) {
           </select>
         </div>
 
+
         <div>
           <label>State:</label>
           <br />
