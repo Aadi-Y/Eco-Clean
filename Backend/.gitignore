@@ -1,2 +1,7 @@
 node_modules
 .env
+IDEMPOTENCY_DOCS.md
+RATE_LIMITING.md
+MESSAGE_QUEUE_DOCS.md
+test-idempotency.js
+test-mq.js
